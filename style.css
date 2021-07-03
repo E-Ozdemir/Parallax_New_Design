@@ -120,7 +120,7 @@ html {
   .background-container--image2,
   .background-container--image3,
   .background-container--image4 {
-    background-attachment: fixed;
+    background-attachment: scroll;
   }
   .heading-container__heading--big {
     /* padding: 1rem;
